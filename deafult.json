@@ -1,0 +1,39 @@
+{
+  "A": "KEY:space",
+  "B": "KEY:l",
+  "X": "KEY:j",
+  "Y": "KEY:k",
+
+  "LB": "KEY:q",
+  "RB": "KEY:e",
+
+  "LT": "KEY:left_shift",
+  "RT": "KEY:space",
+
+  "BACK": "KEY:backspace",
+  "START": "KEY:enter",
+
+  "LS_CLICK": "",
+  "RS_CLICK": "KEY:r",
+
+  "DPAD_UP": "VK:104",
+  "DPAD_DOWN": "VK:98",
+  "DPAD_LEFT": "VK:100",
+  "DPAD_RIGHT": "VK:102",
+
+  "LEFT_STICK_UP": "KEY:w",
+  "LEFT_STICK_DOWN": "KEY:s",
+  "LEFT_STICK_LEFT": "KEY:a",
+  "LEFT_STICK_RIGHT": "KEY:d",
+
+  "RIGHT_STICK_UP": "KEY:up",
+  "RIGHT_STICK_DOWN": "KEY:down",
+  "RIGHT_STICK_LEFT": "KEY:left",
+  "RIGHT_STICK_RIGHT": "KEY:right",
+
+  "EXIT_KEY_1": "KEY:esc",
+  "EXIT_KEY_2": "KEY:backspace",
+  "EXIT_HOLD_SEC": 0.3,
+
+  "STICK_MAGNITUDE": 1.0
+}
